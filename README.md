@@ -1,7 +1,9 @@
 Matt Sagat - Personal Project, Command Terminal-Based Aim Trainer
 
 FOR THE BEST UNDERSTANDING OF THIS NICHE PROJECCT, I STRONGLY RECCOMEND WATCHING THESE YOUTUBE VIDEOS BEFORE DIGGING THROUGH THIS REPOSITORY
+
 Project Demonstration: https://www.youtube.com/watch?v=H6U8mhcOyvs
+
 Included Github File Overview: https://www.youtube.com/watch?v=wsWg5wNnPVQ
 
 This tool allows those in the Roblox RCL community to easily get aiming practice against bots in customizable environments. 
